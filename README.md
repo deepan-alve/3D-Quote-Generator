@@ -51,7 +51,6 @@ A dynamic web application that fetches and displays Kanye West quotes in an eleg
 ├── index.html         # Main HTML file
 ├── style.css          # CSS for styling
 ├── script.js          # JavaScript for functionality
-└── assets/            # Folder for images, icons, or other assets
 ```
 
 ---
