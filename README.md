@@ -7,7 +7,6 @@ A dynamic web application that fetches and displays Kanye West quotes in an eleg
 
 ## 📸 Screenshot
 
-![3D Quote Generator Screenshot](path/to/screenshot.png)
 ![image](https://github.com/user-attachments/assets/415484da-26a9-4fc7-8fb2-559a62717b04)
 ![image](https://github.com/user-attachments/assets/9bcc49c5-b2b7-4e8c-b7ae-0bbfaa2c7df8)
 
